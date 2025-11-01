@@ -27,12 +27,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=abdalla hattb .abdalla hattb &"  />
-</div>
-
-###
-
 <br clear="both">
 
 <h1 align="left">About Me</h1>
@@ -76,12 +70,6 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/abdalla hattb /abdalla hattb /output/snake.svg" alt="Snake animation" />
 
 ###
 
